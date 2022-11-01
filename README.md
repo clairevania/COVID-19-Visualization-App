@@ -23,6 +23,6 @@ Below is a screen shot of the GUI.
 The [MyAppInstaller_mcr.exe](https://github.com/clairevania/Covid-19-Visualization-App/blob/main/MyAppInstaller_mcr.exe) in the repository is a stand-alone application that runs without MATLAB. Download it from the repository and install it. The app then should be good to go ! 
 
 #### With MATLAB
-1. Make sure that the current directory for MATLAB has all the files in myapp folder.
+1. Make sure that the current directory for MATLAB has all the files in [MyApp](https://github.com/clairevania/Covid-19-Visualization-App/tree/main/MyApp) folder.
 2. Type CovidApp in the command prompt 
 
