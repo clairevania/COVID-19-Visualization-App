@@ -20,7 +20,7 @@ Below is a screen shot of the GUI.
 
 ### How to Run the App ?
 #### Without MATLAB
-The 1MyAppInstaller_mcr.exe in the repository is a standalone application that runs without MATLAB. Download it from the repository and install it.The app then should be good to go ! 
+The [MyAppInstaller_mcr.exe](https://github.com/clairevania/Covid-19-Visualization-App/blob/main/MyAppInstaller_mcr.exe) in the repository is a stand-alone application that runs without MATLAB. Download it from the repository and install it. The app then should be good to go ! 
 
 #### With MATLAB
 1. Make sure that the current directory for MATLAB has all the files in myapp folder.
